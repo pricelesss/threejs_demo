@@ -1,2 +1,2 @@
 # threejs_demo
-three-learn for private
+private threejs demo
